@@ -1,0 +1,8 @@
+Tests: upstream-unittest
+Depends: python3-all,
+         python3-btrees,
+         python3-pytest,
+         python3-zope.exceptions,
+         python3-zope.configuration,
+         python3-zope.testing,
+         python3-zope.security,
